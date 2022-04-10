@@ -55,6 +55,7 @@ class Game extends React.Component {
     }
 }
 
+// This helps me understand the fetch command
 // ========================================
 
 ReactDOM.render(
