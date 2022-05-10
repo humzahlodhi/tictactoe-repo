@@ -55,6 +55,9 @@ class Game extends React.Component {
     }
 }
 
+var x = 24
+
+
 // Testing git status
 // This helps me understand the fetch command
 // ========================================
